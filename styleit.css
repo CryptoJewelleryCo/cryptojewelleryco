@@ -6,3 +6,7 @@
   text-align: center;
   min-height: 100vh;
 }
+body {
+  background-image: url("tilebackground.png");
+  background-repeat: repeat;
+}
