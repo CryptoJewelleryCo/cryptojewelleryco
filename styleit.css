@@ -1,7 +1,3 @@
-body {
-  background-image:url("tilebackground.png");
-  background-repeat: repeat;
-}
 .center-screen {
   display: flex;
   flex-direction: column;
