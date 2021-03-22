@@ -1,4 +1,5 @@
-div {
-    background-image:url(tilebackground.png);
-    background-repeat:repeat;
-}
+img {
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
+} 
